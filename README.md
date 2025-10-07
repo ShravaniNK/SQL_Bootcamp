@@ -1,6 +1,6 @@
 # SQL_Bootcamp
 
-Attended a SQL Bootcamp where I gained in depth knowledge about the listed topics and gained hands on experience with assignments.
+Attended a 10 day SQL Bootcamp in march 2025 where I gained in depth knowledge about the listed topics and gained hands on experience with assignments.
 
 ## Topics covered with to-do exercises/ daily assgnments:
 PostgreSQL Intro,  
