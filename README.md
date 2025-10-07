@@ -3,24 +3,17 @@
 Attended a 10 day SQL Bootcamp in march 2025 where I gained in depth knowledge about the listed topics and gained hands on experience with assignments.
 
 ## Topics covered with to-do exercises/ daily assgnments:
-PostgreSQL Intro,  
-Querying Data, 
-Filtering Data, 
-Join Tables,
-Grouping Data,
-Modifying data, 
-Common Table Expression (CTE),
-PostgreSQL Transaction,
-Subquery,
-Managing Tables,
-Database Constraints,
-Set Operators,
-Conditional Expressions and Operators 
+ ### ER Diagram
+ ### Managing Tables and Database Constraints
+ ### Modifying data: INSERT, UPDATE, DELETE
+ ### SQL Fundamentals: SELECT, WHERE, ORDER BY, LIMIT,FETCH
+ ### Filtering and Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN
+ ### Aggregations: GROUP BY, HAVING, aggregate functions
+ ### Set Operators: UNION, INTERSECT, EXCEPT
+ ### Subqueries and CTEs (Common Table Expressions)
+ ### Views, Triggers, Stored Procedures, and User-Defined Functions
+ ### Window Functions and Recursive Queries
+ ### Indexing, Curosr and Query Optimization in PostgreSSQL
 
-## Also includes advanced topics such as 
-PostgreSQL Views, 
-PostgreSQL Indexes,
-PostgreSQL Trigger Basics,
-Stored procedures,
-Windows functions,
-User Defined functions, Cursor, and Recursive
+## Dataset
+Northwind (PostgreSQL version) – A classic dataset to explore sales, customers, orders, and products.
