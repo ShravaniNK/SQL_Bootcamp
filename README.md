@@ -13,7 +13,7 @@ Attended a 10 day SQL Bootcamp in march 2025 where I gained in depth knowledge a
  ### Subqueries and CTEs (Common Table Expressions)
  ### Views, Triggers, Stored Procedures, and User-Defined Functions
  ### Window Functions and Recursive Queries
- ### Indexing, Curosr and Query Optimization in PostgreSSQL
+ ### Indexing, Cursor and Query Optimization in PostgreSSQL
 
 ## Dataset
 Northwind (PostgreSQL version) – A classic dataset to explore sales, customers, orders, and products.
