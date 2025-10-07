@@ -2,7 +2,7 @@
 
 Attended a SQL Bootcamp where I gained in depth knowledge about the listed topics and gained hands on experience with assignments.
 
-## Topics covered with do to exercises:
+## Topics covered with to-do exercises/ daily assgnments:
 PostgreSQL Intro,  
 Querying Data, 
 Filtering Data, 
